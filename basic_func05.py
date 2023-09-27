@@ -2,5 +2,5 @@
 def main():
     a=-2.4
 # Return the value float type.
-    return float(a)
+    return float(a) 
 print(main())
