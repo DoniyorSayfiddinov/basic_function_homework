@@ -1,6 +1,6 @@
 # Create a function called main.
 def main():
-    a=5
+    a=5.
 
 # Create function arguments a.
 
