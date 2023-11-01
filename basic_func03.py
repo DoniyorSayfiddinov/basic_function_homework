@@ -3,4 +3,4 @@ def main():
 
 # Return the value "codeschooluz"
     return ("codeschooluz")
-print(main())
+print(main()) 
